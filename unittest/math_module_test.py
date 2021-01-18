@@ -17,3 +17,7 @@ class MathModuleTest(unittest.TestCase):
         self.assertEqual(multiply(8, 4), 32)
         self.assertEqual(multiply(-8, -3), 24)
         self.assertEqual(multiply(-8, 2), -16)
+
+
+if __name__ == '__main__':
+    unittest.main()
