@@ -8,5 +8,6 @@ def add_two_numbers(a, b):
         11
         >>> add_two_numbers(7, -4)
         3
+        >>> add_two_numbers(8, 'b')
     '''
     return a + b
