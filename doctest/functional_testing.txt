@@ -1,0 +1,13 @@
+========================================================================
+Testing the function using doctest.
+========================================================================
+
+>>> def add_two_numbers(a, b):
+...     ''' Performs the Addition Operation '''
+...     return a + b
+>>> add_two_numbers(7, 11)
+18
+>>> add_two_numbers(7, 4)
+11
+>>> add_two_numbers(8, -51)
+-43
