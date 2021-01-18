@@ -1,0 +1,1 @@
+all = ['calc_test']
